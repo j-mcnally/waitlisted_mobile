@@ -1,0 +1,3 @@
+rootProject.name = 'waitlisted_mobile'
+
+include ':app'
